@@ -91,12 +91,7 @@ entregas.
 <br>
 
 <div align="center">
-
-
-**Funções:** Backend Developer • Java Developer
-**Modalidades:** Remoto | Híbrido | Presencial  
-
-**Disponibilidade:** Imediata  
+ 
 
 <a href="https://www.linkedin.com/in/devjansen/">
   <img src="https://img.shields.io/badge/💬_Entre_em_Contato-42B883?style=for-the-badge">
