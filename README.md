@@ -29,10 +29,8 @@ entregas.
 - 🧠 **Backend:** Java | Spring Boot | APIs REST | Microserviços   
 - 🎨 **Frontend:** React | Angular | TypeScript 
 - 📱 **Mobile:** Android | Kotlyn | Flutter
-- 💾 **Database:** PostgreSQL | MySQL  
+- 💾 **Database:** PostgreSQL | MySQL | MongoDB 
 - 🔁 **Aprendizado Contínuo:** Oracle Next Education
-
-🎯 **Buscando oportunidade júnior/pleno** para aplicar conhecimentos técnicos e contribuir com soluções escaláveis em ambiente colaborativo.
 
 ---
 
