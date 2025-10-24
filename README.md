@@ -63,7 +63,7 @@ entregas.
 <div align="center">
 
 ### 🎓 **Bacharelado em Engenharia de Software*  
-**Instituto Federal do Ceará (IFCE)**  
+**UNIASSELVI**  
 📅 *2025 – Em andamento*
 
 > Engenharia de software, banco de dados e arquitetura de soluções.
