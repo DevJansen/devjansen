@@ -84,7 +84,7 @@ entregas.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&theme=synthwave&show_icons=true&layout=compact)](https://github.com/devjansen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&theme=synthwave&show_icons=true&layout=compact)](https://github.com/DevJansen)
 
 
 </div>
@@ -92,9 +92,6 @@ entregas.
 
 <div align="center">
 
----
-
-## 💼 Disponível para Oportunidades
 
 **Funções:** Backend Developer • Java Developer
 **Modalidades:** Remoto | Híbrido | Presencial  
