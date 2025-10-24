@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=++++++++++++++++++Desenvolvedor+Back-End+;Java++%7C++Spring+Boot++%7C++SQL++%7C++JavaScript++)](https://git.io/typing-svg)
 
-**📍 Santa Catarina, Brasil **
+**📍 Santa Catarina, Brasil**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DevJansen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codejhonatajansen@gmail.com)
